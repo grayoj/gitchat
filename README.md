@@ -34,7 +34,8 @@ Some of the people that really want to make this happen and started it:
 - @<a href="https://github.com/">SilPix</a>
 - @<a href="https://github.com/">Ftgeorge</a>
 - @<a href="https://github.com/">Kamaldeenyusuff</a>
-
+- @<a href="https://github.com/">Ahmaduabubakarr</a>
+	
 ## License 🔑
 
 MIT License.
