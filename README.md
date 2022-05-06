@@ -33,7 +33,9 @@ Some of the people that really want to make this happen and started it:
 - @<a href="https://github.com/">RoyWealth</a>
 - @<a href="https://github.com/">SilPix</a>
 - @<a href="https://github.com/">Ftgeorge</a>
+- @<a href="https://github.com/">teddyoweh</a>
 - @<a href="https://github.com/">Kamaldeenyusuff</a>
+<<<<<<< HEAD
 
 ## Languages & Stacks 🐱‍🏍
 
@@ -54,6 +56,10 @@ Some of the people that really want to make this happen and started it:
 These are all subject to change depending on any unforseen circumstances. 
 
 
+=======
+- @<a href="https://github.com/">Ahmaduabubakarr</a>
+	
+>>>>>>> 8fb42ee2334473d589a9c148d9302be2d02f5c69
 ## License 🔑
 
 MIT License.
