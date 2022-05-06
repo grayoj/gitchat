@@ -35,6 +35,25 @@ Some of the people that really want to make this happen and started it:
 - @<a href="https://github.com/">Ftgeorge</a>
 - @<a href="https://github.com/">Kamaldeenyusuff</a>
 
+## Languages & Stacks 🐱‍🏍
+
+<strong>The Web Application</strong>
+- TypeScript
+- JavaScript
+- Elixir
+- PostgreSQL/MYSQL
+- Python
+- Node.js
+
+<strong>The Desktop Application</strong>
+- Electron
+
+<strong>Mobile Application</strong>
+- React Native
+
+These are all subject to change depending on any unforseen circumstances. 
+
+
 ## License 🔑
 
 MIT License.
