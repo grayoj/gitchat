@@ -1,5 +1,5 @@
 <a href="https://gitchat.app"><p align="center">
-<img width="500" src="Gitchat.png"/>
+<img width="500" src="gitchat.png"/>
 </a>
 <p align="center">
 <b>Open Source Chat. Free for All. For Developers. ✨</b>
