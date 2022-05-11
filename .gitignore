@@ -28,7 +28,7 @@ yarn-error.log
 .env
 *.pyc
 *.pyo
-Lib
+env/Lib
 Scripts
 Include
 dist/
