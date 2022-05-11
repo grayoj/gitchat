@@ -27,7 +27,7 @@ dist
 
 # For Flask Environment
 .env
-flask
+
 *.pyc
 *.pyo
 env/
@@ -44,4 +44,3 @@ _mailinglist
 .pytest_cache/
 .idea/
 docs/_build/
-.vscode
