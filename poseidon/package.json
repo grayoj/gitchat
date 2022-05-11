@@ -1,0 +1,22 @@
+{
+  "name": "poseidon",
+  "version": "1.0.0",
+  "description": "Electron desktop app for Gitchat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grayoj/gitchat.git"
+  },
+  "author": "Gerald Maduabuchi, The Gitchat Contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grayoj/gitchat/issues"
+  },
+  "homepage": "https://github.com/grayoj/gitchat#readme",
+  "dependencies": {
+    "electron": "^18.2.2"
+  }
+}
