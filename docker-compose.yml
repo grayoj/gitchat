@@ -1,0 +1,28 @@
+version: "3.5"
+
+# service_name:
+#   build: 
+#     context: .
+#     dockerfile: path/to/Dockerfile
+#
+
+services:
+  aries:
+    image: gitchat/aries
+    env_file: 
+      - aries.env
+  hades:
+    image: gitchat/hades
+    env_file: 
+      - hades.env
+  chronos:
+    image: gitchat/chronos
+    env_file: 
+      - chronos.env
+  poseidon:
+    image: gitchat/poseidon
+    env_file: 
+      - poseidon.env
+  postgres:
+    env_file: 
+      - pg.env
