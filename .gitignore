@@ -8,7 +8,7 @@ node_modules
 
 .idea/
 */.idea/
-.docker
+docker
 .env
 .next
 storybook-static
@@ -24,3 +24,24 @@ dist
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+# For Flask Environment
+.env
+flask
+*.pyc
+*.pyo
+env/
+venv/
+.venv/
+env*
+dist/
+build/
+*.egg
+*.egg-info/
+_mailinglist
+.tox/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
+.vscode
