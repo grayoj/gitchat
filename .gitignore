@@ -27,13 +27,11 @@ dist
 
 # For Flask Environment
 .env
-
 *.pyc
 *.pyo
-env/
-venv/
-.venv/
-env*
+Lib
+Scripts
+Include
 dist/
 build/
 *.egg
