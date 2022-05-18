@@ -13,7 +13,7 @@ This is the structure of the application. For easier navigation and to prevent a
 |  <b>Aries   |    React App     |
 | <b>Chronos  |  Elixir Server   |
 |  <b>Flask   |   Python Stuff   |
-|  <b>Hades   |   Next JS App    |
+|  <b>Hades   |  Nodejs backend  |
 | <b>Poseidon | Electron Wrapper |
 |   <b>Zeus   |   Expo CLI App   |
 
@@ -38,14 +38,17 @@ Note this is just an all round installation. Each folder, has it's own specific 
 Install Node.js for your machine by clicking <a href="http://nodejs.org">here.</a> Remember to check and verify the installation.
 
 <strong>STEP 1</strong>
+
 ```shell
 $ node -v
 ```
+
 Check your npm version as well. Though we'd be using Yarn instead of NPM.
 
 ```shell
 $ npm -v
 ```
+
 <strong>STEP 2</strong>
 
 Install Docker. Not really compulsory, if you do not want to run the application within containers.
@@ -53,37 +56,38 @@ Install <a href="http://docker.org">here</a>.
 
 <strong>STEP 3</strong>
 
-Install Python. From <a href="http://python.org">here</a>. 
+Install Python. From <a href="http://python.org">here</a>.
 
 Install virtualenv
 
 ```shell
 $ pip install virtualenv
 ```
+
 Install flask
 
 ```shell
 $ pip install flask
 ```
 
-Just so you have the basic environment setup. 
+Just so you have the basic environment setup.
 
 <strong>STEP 3</strong>
 
-Not really compulsory to install Elixir, but see the ```chronos``` folder for an elaborate installation guide.
+Not really compulsory to install Elixir, but see the `chronos` folder for an elaborate installation guide.
 
 <strong>STEP 4</strong>
 
 Clone this repository. You would need Gitbash on your local machine to execute this. Install Gitbash.
-Now in your git terminal, or VsCode preferrably, navigate to ```source control.```
-Click on ``clone repository``
+Now in your git terminal, or VsCode preferrably, navigate to `source control.`
+Click on `clone repository`
 Enter this link: `https://github.com/grayoj/gitchat.git`
 
-OR terminal way: 
+OR terminal way:
 
 ```git
 $ git clone https://github.com/grayoj/gitchat.git
 ```
 
-Now ``cd`` into the root directory. Have fun or start contributing!
+Now `cd` into the root directory. Have fun or start contributing!
 More detailed guidelines, for specific tasks coming.
