@@ -77,17 +77,17 @@ This is the structure of the application. For easier navigation and to prevent a
 
 ## Requirements
 
-It is worthy to note that you do not require all these tools, except the ones in red which are necessary for working with all parts of the project currently.
+It is worthy to note that you do not require all these tools, except the ones ticked which are necessary for working with all parts of the project currently.
 
-1. <p style="color: red">Node.js</p>
-2. <p style="color: red">Expo CLI tools</p>
+1. <p>Node.js</p> ✔️
+2. <p>Expo CLI tools</p> ✔️
 3. Docker
 4. Elixir/Erlang VM
-5. <p style="color: red">MySQL</p>
+5. <p>MySQL</p> ✔️
 6. Postgres SQL
 7. GraphQL
-8. <p style="color: red">Python & PIP</p>
-9. <p style="color: red">Yarn</p>
+8. <p>Python & PIP</p> ✔️
+9. <p>Yarn</p> ✔️
 
 ## Getting Started
 
