@@ -157,4 +157,5 @@ MIT License.
 
 ## Thank You
 
-This is an open source project, feel free to contribute, and generate Pull requests. More updates will be added.
+This is an open source project, feel free to contribute, and generate Pull requests. Open issues to request for corrections and features, including pull requests which would be approved.
+ More updates will be added.
