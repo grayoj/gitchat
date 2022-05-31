@@ -1,5 +1,5 @@
 <a href="https://gitchat.app"><p align="center">
-<img width="500" src="gitchat.png"/>
+<img width="100" src="gitchat.png"/>
 </a>
 <p align="center">
 <b>Open Source Chat. Free for All. For Developers. ✨</b>
@@ -19,50 +19,13 @@
 
 Gitchat is an open sourced chat application that provides messaging and interactive audio room spaces!
 
-## Contributions 🎯
 
-Kindly see our contribution guidelines for more information on the project, by clicking <a href="https://github.com/">here!</a> 🐱‍🏍
+## Installation
 
-## Collaborators 👨‍👧‍👧
-
-Some of the people that really want to make this happen and started it:
-
-- @<a href="https://github.com/grayoj">grayoj</a>
-- @<a href="https://github.com/icaruschan">icaruschan</a>
-- @<a href="https://github.com/collins2005">collins2005</a>
-- @<a href="https://github.com/roywealth">RoyWealth</a>
-- @<a href="https://github.com/silpix">SilPix</a>
-- @<a href="https://github.com/ftgeorge">Ftgeorge</a>
-- @<a href="https://github.com/teddyoweh">teddyoweh</a>
-- @<a href="https://github.com/kamaldeenyusuff">Kamaldeenyusuff</a>
-- @<a href="https://github.com/ahmaduabubakarr">Ahmaduabubakarr</a>
-
-
-## Languages & Stacks 🐱‍🏍
-
-<strong>The Web Application</strong>
-- TypeScript
-- JavaScript
-- Elixir
-- PostgreSQL/MYSQL
-- Python
-- Node.js
-
-<strong>The Desktop Application</strong>
-- Electron
-
-<strong>Mobile Application</strong>
-- React Native
-
-These are all subject to change depending on any unforseen circumstances. 
-
-# Installation
-
----
 
 This is an elaborate walkthrough on the installation and configuration of Gitchat on your local machine, for development purposes.
 
-## Project Structure
+### Project Structure
 
 This is the structure of the application. For easier navigation and to prevent an intimmidating looking repository, the folders are named after greek olympian Gods.
 
@@ -75,7 +38,7 @@ This is the structure of the application. For easier navigation and to prevent a
 | <b>Poseidon | Electron Wrapper |
 |   <b>Zeus   |   Expo CLI App   |
 
-## Requirements
+### Requirements
 
 It is worthy to note that you do not require all these tools, except the ones ticked which are necessary for working with all parts of the project currently.
 
@@ -89,7 +52,7 @@ It is worthy to note that you do not require all these tools, except the ones ti
 8. Python & PIP ✔️
 9. Yarn ✔️
 
-## Getting Started
+### Getting Started
 
 Note this is just an all round installation. Each folder, has it's own specific configuration and requirements.
 
@@ -150,12 +113,45 @@ $ git clone https://github.com/grayoj/gitchat.git
 Now `cd` into the root directory. Have fun or start contributing!
 More detailed guidelines, for specific tasks coming.
 
+  
+## Languages & Stacks 🐱‍🏍
+
+<strong>The Web Application</strong>
+- TypeScript
+- JavaScript
+- Elixir
+- PostgreSQL/MYSQL
+- Python
+- Node.js
+
+<strong>The Desktop Application</strong>
+- Electron
+
+<strong>Mobile Application</strong>
+- React Native
+
+These are all subject to change depending on any unforseen circumstances. 
+
 
 ## License 🔑
-
 MIT License.
-
-## Thank You
-
+  
+  
+## Contributions 🎯
 This is an open source project, feel free to contribute, and generate Pull requests. Open issues to request for corrections and features, including pull requests which would be approved.
- More updates will be added.
+
+Kindly see our contribution guidelines for more information on the project, by clicking <a href="https://github.com/">here!</a> 🐱‍🏍
+
+  
+## Collaborators 👨‍👧‍👧
+Some of the people that really want to make this happen and started it:
+
+- @<a href="https://github.com/grayoj">grayoj</a>
+- @<a href="https://github.com/icaruschan">icaruschan</a>
+- @<a href="https://github.com/collins2005">collins2005</a>
+- @<a href="https://github.com/roywealth">RoyWealth</a>
+- @<a href="https://github.com/silpix">SilPix</a>
+- @<a href="https://github.com/ftgeorge">Ftgeorge</a>
+- @<a href="https://github.com/teddyoweh">teddyoweh</a>
+- @<a href="https://github.com/kamaldeenyusuff">Kamaldeenyusuff</a>
+- @<a href="https://github.com/ahmaduabubakarr">Ahmaduabubakarr</a>
