@@ -154,4 +154,4 @@ Some of the people that really want to make this happen and started it:
 - @<a href="https://github.com/ftgeorge">Ftgeorge</a>
 - @<a href="https://github.com/teddyoweh">teddyoweh</a>
 - @<a href="https://github.com/kamaldeenyusuff">Kamaldeenyusuff</a>
-- @<a href="https://github.com/ahmaduabubakarr">Ahmaduabubakarr</a>
+- @<a href="https://github.com/abubakar10x">Abubakar10x</a>
